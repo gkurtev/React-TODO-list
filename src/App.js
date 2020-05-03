@@ -12,8 +12,7 @@ class TodoApp extends React.Component {
     this.state = {
       personName: 'Genadi-chan',
       list: [],
-      valzor: '',
-      dirtyWords: ['suck','dick', 'pussy']
+      valzor: ''
     }
   }
 
